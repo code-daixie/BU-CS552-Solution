@@ -1,2 +1,3 @@
 # BU-CS552-Solution
-the solution to CS552
+
+## 微信：scs_ryan
